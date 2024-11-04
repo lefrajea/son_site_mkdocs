@@ -8,13 +8,13 @@ theme:
   name: material # mkdocs
 
 ## Architecture
-nav:
-  - Accueil: index.md
-  - Guide:
-    - Pense-bete: pense_bete.md
+  nav:
+    - Accueil: index.md
+    - Guide:
+      - Pense-bete: pense_bete.md
 #
 #  ## Extensions
   markdown_extensions:
     - toc:
-          permalink: true
-          baselevel: 1
+        permalink: true # false
+        baselevel: 1 # 2
