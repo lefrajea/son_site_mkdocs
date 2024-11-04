@@ -1,0 +1,15 @@
+## Préambule
+site_name: My LEFJ Docs
+site_description: Un site sur la doc de LEFJ.
+site_author: Jean LeFrancois
+site_favicon: favicon.ico
+
+theme: 
+  name: material # mkdocs
+
+## Architecture
+nav:
+  - Accueil: index.md
+  - Pense-bete: pense_bete.md
+#
+#  ## Extensions
